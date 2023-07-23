@@ -4,5 +4,5 @@ namespace dev_rick_and_morty_api.Services.Interfaces;
 
 public interface IRickAndMortyService
 {
-    
+    public <List<Characters>> GetCharacter();
 }

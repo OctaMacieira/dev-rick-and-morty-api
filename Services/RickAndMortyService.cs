@@ -8,5 +8,12 @@ namespace dev_rick_and_morty_api.Services;
 
 public class RickAndMortyService:IRickAndMortyService
 {
-    
+    public async <List<Characters>> GetCharacter ()
+    {
+        var status = "unknown";
+        var species = "alien";
+        
+        var result
+
+    }
 }
