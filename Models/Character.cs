@@ -6,7 +6,8 @@ using Newtonsoft.Json.Linq;
 
 namespace dev_rick_and_morty_api.Models;
 
-public class Characters
+
+public class Character
 {
     [JsonProperty("id")]
     [JsonPropertyName("id")]

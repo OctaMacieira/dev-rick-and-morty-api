@@ -26,7 +26,7 @@ public class Episodes
 
     [JsonProperty("characters")]
     [JsonPropertyName("characters")]
-    public List<Characters> Characters;
+    public List<Character> Characters;
 
     [JsonProperty("url")]
     [JsonPropertyName("url")]

@@ -25,7 +25,7 @@ public class Location
 
     [JsonProperty("residents")]
     [JsonPropertyName("residents")]
-    public List<Characters> Characters;
+    public List<Character> Characters;
 
     [JsonProperty("url")]
     [JsonPropertyName("url")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OE8TSpAiD/qTDQYAU8FqoK+Qs9eE5sDyKvY9fios3w4=",
+  "Source": "dev-rick-and-morty-api",
+  "BasePath": "_content/dev-rick-and-morty-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
